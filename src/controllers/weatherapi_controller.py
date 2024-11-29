@@ -26,7 +26,7 @@ def get_weather():
 
         if temperature > 30:
             recommendation = "It's hot outside. Consider indoor activities like yoga or gym workouts."
-        elif 20 <= temperature <= 30:
+        elif 18 <= temperature <= 30:
             recommendation = "Great weather for outdoor activities like running or cycling."
         elif 10 <= temperature < 20:
             recommendation = "A bit chilly. Dress warmly if going outdoors for a walk or jog."

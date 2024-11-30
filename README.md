@@ -10,6 +10,17 @@ The following project is an API that uses SQLAlchemy to store user data with JWT
 
 ### Setup
 
+#### Step 0: Enter Virtual Environment
+Using either of the following commands for windows or mac from the terminal you can enter the virtual enviroment. It is recommended you do this before beginning to do anything.
+For macOS/Linux
+```
+source venv/bin/activate
+```
+For Windows
+```
+venv\Scripts\activate
+```
+
 #### Step 1: Installing Docker
 
 Windows:

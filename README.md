@@ -8,6 +8,12 @@ Raj Shukla (Student ID: 100784045)
 
 The following project is an API that uses SQLAlchemy to store user data with JWT for authorization and security of users. It uses the Model View Controller (MVC) architecture format to organize file systems. 
 
+### API Endpoints and Architecture
+
+Please refer to the following files for more information about the API:
+API_Documentation.pdf
+API Architecture.pdf
+
 ### Setup
 
 #### Step 0: Enter Virtual Environment
